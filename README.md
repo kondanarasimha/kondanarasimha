@@ -10,4 +10,4 @@ I'm **Konda Narasimha**, a Full Stack Web Developer with a passion for crafting 
 ### Testing Tools- Postman
 ### Developing Tools- Vs code
 
-Let's collaborate and build something amazing together! 😊🚀
+Let's collaborate and build something amazing together.
