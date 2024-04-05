@@ -1,5 +1,6 @@
 # KONDA NARASIMHA - FULLSTACK WEB DEVELOPER
-Welcome to my GitHub profile! I'm **Konda Narasimha**, a Full Stack Web Developer with a passion for crafting robust and user-friendly web applications, I have a keen interest in REST API development and enjoy building scalable and efficient APIs to power modern web applications. 
+Welcome to my GitHub profile! 
+I'm **Konda Narasimha**, a Full Stack Web Developer with a passion for crafting robust and user-friendly web applications. I have a keen interest in REST API development and enjoy building scalable and efficient APIs to power modern web applications. 
 
 ## TECHSTACKS
 ### Languages- HTML, CSS, JavaScript
