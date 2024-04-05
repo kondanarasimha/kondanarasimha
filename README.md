@@ -10,7 +10,4 @@ I'm **Konda Narasimha**, a Full Stack Web Developer with a passion for crafting 
 ### Testing Tools- Postman
 ### Developing Tools- Vs code
 
-## CONTACT ME
-Feel free to reach out to me via email at [kondanarasimha123@gmail.com](mailto:kondanarasimha123@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/konda-narasimha-29a905250/).
-
 Let's collaborate and build something amazing together! 😊🚀
