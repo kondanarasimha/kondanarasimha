@@ -3,11 +3,12 @@ Welcome to my GitHub profile!</br>
 I'm **Konda Narasimha**, a Full Stack Web Developer with a passion for crafting robust and user-friendly web applications. I have a keen interest in REST API development and enjoy building scalable and efficient APIs to power modern web applications. 
 
 ## TECHSTACKS
-### Languages- HTML, CSS, JavaScript
-### Frameworks/Libraries- Node.js, Express.js, Embedded.js
+### FrontEND - HTML, CSS, JavaScript, React.JS, Tailwind CSS, BootStrap CSS
+### BackEND- Node.js, Express.js, Embedded.js
 ### Databases- SQL
 ### Version Control- Git, Github
-### Testing Tools- Postman
+### Unite Test - Jasmine
+### Testing Tools - Postman
 ### Developing Tools- Vs code
 
 ## 
