@@ -1,7 +1,3 @@
-Here are the spelling and formatting corrections:
-
----
-
 **# KONDA NARASIMHA - FULL-STACK WEB DEVELOPER**
 
 Welcome to my GitHub profile!  
