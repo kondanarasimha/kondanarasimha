@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 I'm **Konda Narasimha**, a Full-Stack Web Developer with a passion for crafting robust and user-friendly web applications. I have a keen interest in REST API development and enjoy building scalable and efficient APIs to power modern web applications.
 
 ## TECH STACK
-### Frontend - HTML, CSS, JavaScript, React.js, Angular, Tailwind CSS, Bootstrap
+### Frontend - HTML, CSS, JavaScript, React.js, Redux, Angular, Tailwind CSS, Bootstrap
 ### Backend - Node.js, Express.js, EJS (Embedded JavaScript), TypeScript 
 ### Databases - SQL
 ### Version Control - Git, GitHub
